@@ -1,2 +1,5 @@
 google-generativeai
+openai
+python-dotenv
+openai-agents
 
